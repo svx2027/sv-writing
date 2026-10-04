@@ -8,11 +8,17 @@ Feedback about a single line or draft that isn't a rule yet. When a matching obs
 
 Format: date | platform | SV's words | the line it was about
 
-(none yet)
+2026-10-05 | X | "it sounds childish" | "because nobody actually cares" (SV's own phrase, kept by me as voice; SV replaced it with a reasoned line about readers having no time to judge consistency)
 
 ## Log
 
 Format: date · version · title, then SV's words, what changed, and where.
+
+### 2026-10-05 · 1.0.2 · Childish line observation
+
+SV's words: "it sounds childish", replacing "nobody actually cares" with "people don't really have the time to care and think about whether you are consistent".
+Changed: logged one observation; added a keep note for SV's replacement line.
+Where: retro/LEARNINGS.md, voice/profile.md.
 
 ### 2026-10-04 · 1.0.0 · First compilation
 

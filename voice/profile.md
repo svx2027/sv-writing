@@ -46,4 +46,4 @@ Until samples or SV settle these, use the defaults in references/hinglish.md, ne
 
 Lines and habits SV liked. Later edits must not cut them.
 
-(none recorded yet)
+1: SV's own spoken phrase is no free pass: SV called "nobody actually cares" childish and wanted the reason spelled out instead ("people don't really have the time to care and think about whether you are consistent or what you said. If they like it, they like the post. If they don't, they scroll."). (2026-10-05)

@@ -2,6 +2,10 @@
 
 Newest first. Each version also gets a git tag (v1.0.0) once it is pushed from a checkout with push access.
 
+## 1.0.2 (2026-10-05)
+
+1: Logged SV's first observation (a casual line read as childish) and a keep note for SV's replacement line.
+
 ## 1.0.1 (2026-10-04)
 
 Fixes from the first test run: five agents ran write, edit, detect, suggest and a full retro against v1.0.0.
