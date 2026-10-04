@@ -10,7 +10,7 @@ description: |
   stop-slop's hard rules. Compiled from humanizer, stop-slop and no-ai-slop.
 license: MIT
 metadata:
-  version: "1.0.3"
+  version: "1.0.4"
   author: Shivam Vashisth
   repository: https://github.com/svx2027/sv-writing
 ---
@@ -41,7 +41,7 @@ Two rules follow. Every sentence you keep must give the reader something they di
 
 These are SV's house rules plus the tells that are certain. They hold in every mode, on every platform, in strict and calibrated mode, over any writing sample, and in your own notes to SV.
 
-1. No em dashes (`—`) or en dashes (`–`), ever, and no double hyphens. Use a period, comma, colon or parentheses, or rewrite the sentence. Write number ranges with "to". Hyphens inside words, code, paths and URLs stay. One exception, SV's own: in SV's posts and captions, a short hyphen with a space either side joins two linked ideas ("think in systems - systems give you freedom"), as voice/profile.md records. Anywhere else a spaced hyphen used as a dash is banned. When you quote a line that has an em or en dash, write [dash] in its place.
+1. No em dashes (`—`) or en dashes (`–`), ever, and no double hyphens. Use a period, comma, colon or parentheses, or rewrite the sentence. Write number ranges with "to". Hyphens inside words, code, paths and URLs stay. One exception, SV's own: in SV's posts and captions, a short hyphen joins two linked ideas, spaced or unspaced, used interchangeably with a comma ("think in systems - systems give you freedom"), as voice/profile.md records. Anywhere else a hyphen used as a dash is banned. When you quote a line that has an em or en dash, write [dash] in its place.
 2. Never invent. No fact, number, name, date, quote, client, result, source or story that SV or the source text did not give. If a sentence needs a detail you do not have, ask, or write `[ADD: what is needed]` for SV to fill. An opinion or reaction is allowed only when the brief or SV's voice calls for one.
 3. No "not X, it's Y" contrasts in any language or shape, including Hinglish ("ye sirf X nahi, Y hai"), contrasts split across two sentences, and negative lists. State Y. (references/patterns.md #1)
 4. No chatbot residue in the writing: "Great question", "I hope this helps", "Let me know if", "Would you like me to". (#32)

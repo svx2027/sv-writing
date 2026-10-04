@@ -28,8 +28,8 @@ Case
 4: Abbreviations stay as SV writes them, never expanded: rs., hrs, imp, bcoz, rn, ofc, wdn't, hv, f**in. (2026-10-05)
 
 Punctuation
-1: No full stops at the end of lines. Line breaks replace full stops and commas. (2026-10-05)
-2: A short hyphen with a space either side joins two linked ideas: "think in systems - systems give you freedom". (2026-10-05)
+1: No full stops at the end of lines. Line breaks replace full stops. (2026-10-05)
+2: Two linked ideas on one line are joined by a short hyphen or a comma, used interchangeably: "think in systems - systems give you freedom", "if they like it, they like the post". Mix the two across a post; never put a hyphen on every line. Spacing around the hyphen is not consistent either: sometimes spaced, sometimes not, so never force one uniform pattern. (2026-10-05)
 3: Keep only what the meaning needs: commas inside numbers (86,700), decimal points (0.5%), apostrophes inside SV's abbreviations (wdn't), hyphens in compound words (token-efficient, non-engineer). (2026-10-05)
 4: No em dashes, no semicolons, no quote marks, no double dots. (2026-10-05)
 

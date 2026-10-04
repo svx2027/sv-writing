@@ -12,7 +12,7 @@ This merges no-ai-slop's pass/fail eval, humanizer's self-audit and stop-slop's 
 
 ## 2. Hard rules
 
-1. Zero em or en dashes and no double hyphens. Search the text for them. A spaced short hyphen is allowed only in SV's posts and captions, joining two linked ideas.
+1. Zero em or en dashes and no double hyphens. Search the text for them. A short hyphen joining two linked ideas (spaced or not, mixed with commas) is allowed only in SV's posts and captions.
 2. No not-X-but-Y in any language or shape: one sentence, split across two, or a negative list.
 3. No chatbot residue and no recap ending.
 4. Headings in sentence case, except SV's posts and captions, which follow voice/profile.md (all lowercase, bare-digit numbered lists). Anything SV will paste is plain text with no markdown symbols, and lists use colons, with no dash or bullet characters, outside those posts and captions.

@@ -14,6 +14,12 @@ Format: date | platform | SV's words | the line it was about
 
 Format: date · version · title, then SV's words, what changed, and where.
 
+### 2026-10-05 · 1.0.4 · Hyphen spacing and commas
+
+SV's words: "I do not leave space in between the hyphen, or it is not consistent", "we will be interchangeably using commas and hyphens".
+Changed: the joining-hyphen rule now allows spaced or unspaced hyphens and commas, mixed; no uniform hyphen on every line.
+Where: SKILL.md hard rule 1; voice/profile.md punctuation; references/eval.md; platforms/linkedin/guide.md.
+
 ### 2026-10-05 · 1.0.3 · SV's posts and captions style
 
 SV's words: "MY WRITING STYLE (LinkedIn posts and captions)", "this rule overrides everything else" (numbers).

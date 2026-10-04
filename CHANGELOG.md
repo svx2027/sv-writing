@@ -2,6 +2,10 @@
 
 Newest first. Each version also gets a git tag (v1.0.0) once it is pushed from a checkout with push access.
 
+## 1.0.4 (2026-10-05)
+
+1: SV's joining hyphen is spaced or unspaced, inconsistently, and is used interchangeably with a comma; drafts mix the two instead of a spaced hyphen on every line.
+
 ## 1.0.3 (2026-10-05)
 
 1: Added SV's style guide for posts and captions to voice/profile.md: all lowercase, no full stops at line ends, spaced short hyphen joins ideas, bare-digit lists, AP-style numbers.

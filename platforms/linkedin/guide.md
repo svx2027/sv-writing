@@ -136,7 +136,7 @@ Build each one only from SV's facts; where one is missing, leave `[ADD: ...]`.
 4. Zero to three hashtags, no stuffing.
 9. SV's style: all lowercase except "I" and one comic all-caps word, no full stops at line ends, numbers per voice/profile.md.
 5. One ask at most.
-6. No em or en dashes (SV's spaced short hyphen is fine), no contrasts, no recap.
+6. No em or en dashes (SV's joining hyphen is fine, mixed with commas), no contrasts, no recap.
 7. Every generic sentence passed the portability test (#11).
 8. Every number, name and story came from SV.
 
