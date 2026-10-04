@@ -4,7 +4,7 @@ Word lists for pattern #12, merged from humanizer 3.1.0, stop-slop and no-ai-slo
 
 ## 1. Cut on sight
 
-Tier 1 in every mode. Models use these far more often than people do, and the plain version is always better.
+Tier 1 in every mode. Models use these far more often than people do, and the plain version is always better. The "Words SV never uses" list in voice/profile.md belongs here too.
 
 delve, tapestry, testament, realm, beacon, multifaceted, paramount, meticulous, meticulously, intricate, intricacies, interplay, underscore (verb), showcase (verb), garner, bolster, bolstered, pivotal, vibrant, enduring, embark, elevate, supercharge, harness (figurative), ever-evolving, transformative, paradigm shift, game changer, game-changer, cutting-edge, foster, leverage (verb), utilize, facilitate, empower, streamline, "this is huge", "this changes everything"
 

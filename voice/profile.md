@@ -26,7 +26,7 @@ Unconfirmed until samples or feedback settle them.
 
 ## Unknown
 
-Ask or learn from samples. Never guess.
+Until samples or SV settle these, use the defaults in references/hinglish.md, neutral verb forms, no emoji and no hashtags, and list what you assumed in Notes. Never block a task on these, and never guess SV's gender.
 
 1. Hindi first-person verb gender (main gaya or main gayi): unknown. Use neutral constructions until recorded.
 2. Register with readers (aap, tum or tu): unknown.

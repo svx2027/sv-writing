@@ -120,6 +120,8 @@ Tier: hard rule (platform fact 5).
 
 ## Post types
 
+Build each one only from SV's facts; where one is missing, leave `[ADD: ...]`.
+
 1. Case study or proof of work. Include: the channel (named only with permission), the problem, what SV changed, numbers with a timeframe, what SV learned. Watch: #13 inflation, #18 fake-strong verbs, #12 "game changer".
 2. Opinion on YouTube. Include: one claim, the evidence, where it doesn't apply. Watch: #1 contrasts ("Views aren't the goal. Watch time is."), #5 faux insight, #25 lazy extremes.
 3. Journey or milestone. Include: what happened, with dates or numbers; how it felt, in plain words; what's next, if real. Watch: LI1 announcements, LI3 transformation template, LI10 gratitude walls, #3 kickers.
@@ -137,4 +139,4 @@ Tier: hard rule (platform fact 5).
 7. Every generic sentence passed the portability test (#11).
 8. Every number, name and story came from SV.
 
-Samples: platforms/linkedin/samples/README.md explains how SV's posts are stored and used.
+Samples: SV's posts live in platforms/linkedin/samples/. Its README.md is the format guide, not a sample.

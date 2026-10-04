@@ -1,6 +1,6 @@
 # Eval
 
-Run these checks after drafting in Write and Edit. Answer each one pass or fail. Fix every fail, then run the checks again. Detect uses only section 6. Suggest uses section 7 for its score.
+Run these checks after drafting in Write and Edit. Answer each one pass or fail. Fix every fail, then run the checks again. When two checks pull against each other, follow "When rules conflict" in SKILL.md. Detect uses only section 6. Suggest uses section 7 for its score.
 
 This merges no-ai-slop's pass/fail eval, humanizer's self-audit and stop-slop's score.
 
@@ -42,7 +42,7 @@ Search the final text once more for the tells that most often survive a rewrite:
 
 ## 7. Score
 
-Rate each dimension from 1 to 10.
+Rate each dimension from 1 to 10: 9 to 10 means nothing to fix, 7 to 8 minor fixes, 4 to 6 clear problems, 1 to 3 the problem runs through the whole piece.
 
 1. Directness: statements, or announcements?
 2. Rhythm: varied, or metronomic?

@@ -10,7 +10,7 @@ Defaults until samples say otherwise:
 
 1. Script: Roman. Devanagari only when SV writes it.
 2. Industry terms stay in English: views, CTR, retention, watch time, thumbnail, title, hook, upload, Shorts, niche, brand deal, audience, analytics, subscribers.
-3. Spelling: one spelling per word for the whole piece (hai, nahi, kya, toh). Once samples show SV's spellings, use those.
+3. Spelling: one spelling per word for the whole piece. Until samples show SV's spellings, use hai, nahi, kya, toh, kyunki, zyada and pe.
 4. Register: one form of "you" for the whole piece (aap, tum or tu), the one SV uses with this audience.
 
 ## Hinglish forms of the core tells
@@ -111,7 +111,7 @@ Fix: Match SV's rate from samples. Until then, use them where they carry tone, n
 ### HL7. First-person verb gender
 
 Tier: hard rule.
-Hindi first-person verbs carry gender (main gaya or main gayi; main sochta hoon or main sochti hoon). Never guess SV's from a name or a photo. Use the form recorded in voice/profile.md. If it isn't recorded, ask once and record the answer in a retro. Until then, use neutral constructions: "maine socha", "mujhe laga", "maine kiya", "mera plan tha".
+Hindi first-person verbs carry gender (main gaya or main gayi; main sochta hoon or main sochti hoon). Never guess SV's from a name, a photo or a draft, since a model may have written the draft. Use the form recorded in voice/profile.md. If it isn't recorded and the piece needs a first-person verb, ask in Notes (never as a question that blocks the task) and record SV's answer in a retro. Until then, use neutral constructions: "maine socha", "mujhe laga", "maine kiya", "mera plan tha".
 
 ### HL8. Script and spelling drift
 

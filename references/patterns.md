@@ -55,6 +55,7 @@ Tier: hard rule for SV (tier 1 in the sources).
 Watch for: not X but Y; not just (only, merely) X, but Y; it's not X, it's Y; X isn't the problem, Y is; the question (answer) isn't X, it's Y; not because X, because Y; it feels like X, it's actually Y; stops being X and starts being Y; doesn't mean X, it means Y; X rather than Y used only for weight; the contrast split across two sentences; a clipped negative tail (", no guessing"); negative lists ("Not a X. Not a Y. A Z.", "It wasn't X. It wasn't Y. It was Z.").
 Why: The negative half denies something nobody claimed, so the positive half sounds bigger. It adds weight without adding a claim. Negative lists stretch the same move into a striptease.
 Fix: State Y directly. A plain comparison where both halves carry information is fine ("X matters more than Y"). When a real belief needs correcting, name who holds it and give the evidence, without the formula.
+Keep apart: a negative list denies what something is ("Not a X. Not a Y. A Z."). A row of literal facts in negative form ("No clients. No portfolio.") is #2.
 Before:
 > YouTube isn't a video platform. It's a search engine.
 
