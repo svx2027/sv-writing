@@ -2,6 +2,12 @@
 
 Newest first. Each version also gets a git tag (v1.0.0) once it is pushed from a checkout with push access.
 
+## 1.0.3 (2026-10-05)
+
+1: Added SV's style guide for posts and captions to voice/profile.md: all lowercase, no full stops at line ends, spaced short hyphen joins ideas, bare-digit lists, AP-style numbers.
+2: Hard rules 1, 6 and 7 now carry SV's exception for posts and captions; eval.md and the LinkedIn guide (LI2, good-looks-like, before-posting) match.
+3: Saved the first LinkedIn sample.
+
 ## 1.0.2 (2026-10-05)
 
 1: Logged SV's first observation (a casual line read as childish) and a keep note for SV's replacement line.

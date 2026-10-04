@@ -1,6 +1,6 @@
 # LinkedIn
 
-Status: version 1, written before SV's samples arrived. Lines marked (default) are Claude's starting choices; SV's samples and retro feedback replace them.
+Status: version 1. SV's own style for posts and captions now lives in voice/profile.md ("Posts and captions style", 2026-10-05) and overrides any line here that disagrees. Lines marked (default) are Claude's starting choices; SV's samples and retro feedback replace them.
 
 ## What LinkedIn does to text
 
@@ -34,8 +34,8 @@ After:
 ### LI2. Broetry
 
 Tier: 1.
-Watch for: every sentence on its own line, with white space for drama, from start to finish.
-Fix: Paragraphs of one to three sentences, varied. A one-line paragraph is fine when it carries a new fact.
+Watch for: white space used for drama, such as a lone word or a staged pause on its own line.
+Fix: Cut the staging. SV writes one idea per line on purpose (voice/profile.md), so short lines that each carry an idea stay.
 
 ### LI3. Hook formulas
 
@@ -113,7 +113,7 @@ Tier: hard rule (platform fact 5).
 2. One post, one idea.
 3. Proof over adjectives: numbers with timeframes, before and after, and what SV changed (titles, thumbnails, hooks, retention edits, upload plan). Client names and numbers only with permission; ask when unsure.
 4. Journey posts follow what happened, what SV did, what changed and what SV thinks now. Keep the doubt and the mistakes.
-5. Paragraphs of one to three sentences for phone reading, varied in length.
+5. One idea per line, short lines, blank lines between sections, as voice/profile.md records.
 6. Length follows the idea. Well under the 3,000-character cap is normal; never pad.
 7. Ending: the last concrete point, one plain ask, or one real question. Never a recap or a kicker.
 8. Hinglish on LinkedIn: Roman script, English for industry terms, Hindi where SV's voice goes (references/hinglish.md).
@@ -133,9 +133,10 @@ Build each one only from SV's facts; where one is missing, leave `[ADD: ...]`.
 1. Under 3,000 characters. Count them.
 2. No markdown and no Unicode fonts.
 3. The first line is specific and works alone.
-4. Zero to three hashtags (default).
+4. Zero to three hashtags, no stuffing.
+9. SV's style: all lowercase except "I" and one comic all-caps word, no full stops at line ends, numbers per voice/profile.md.
 5. One ask at most.
-6. No dashes, no contrasts, no recap.
+6. No em or en dashes (SV's spaced short hyphen is fine), no contrasts, no recap.
 7. Every generic sentence passed the portability test (#11).
 8. Every number, name and story came from SV.
 

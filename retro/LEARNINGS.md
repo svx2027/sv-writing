@@ -14,6 +14,12 @@ Format: date | platform | SV's words | the line it was about
 
 Format: date · version · title, then SV's words, what changed, and where.
 
+### 2026-10-05 · 1.0.3 · SV's posts and captions style
+
+SV's words: "MY WRITING STYLE (LinkedIn posts and captions)", "this rule overrides everything else" (numbers).
+Changed: SV's full style recorded; the old bans on spaced hyphens, sentence-case headings and colon lists now exempt SV's posts and captions; LI2 broetry narrowed to staged white space; first sample saved. Brand example "rodha" left out of this public repo.
+Where: SKILL.md hard rules 1, 6, 7; voice/profile.md; references/eval.md; platforms/linkedin/guide.md; platforms/linkedin/samples/.
+
 ### 2026-10-05 · 1.0.2 · Childish line observation
 
 SV's words: "it sounds childish", replacing "nobody actually cares" with "people don't really have the time to care and think about whether you are consistent".
