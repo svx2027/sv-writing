@@ -14,6 +14,12 @@ Format: date | platform | SV's words | the line it was about
 
 Format: date · version · title, then SV's words, what changed, and where.
 
+### 2026-10-05 · 1.1.0 · Comments are about their post
+
+SV's words: "This is a comment on someone else's post. Why will you talk about your spending", "It is not about me. It is about my reply to their post with the personality which I have."
+Changed: a comment draft used SV's own spending as proof of self-investment; now banned. Comments react to the author's specifics, SV's voice shows in the reaction.
+Where: voice/profile.md rule 9; platforms/linkedin/guide.md LI13 and post type 6.
+
 ### 2026-10-05 · 1.0.4 · Hyphen spacing and commas
 
 SV's words: "I do not leave space in between the hyphen, or it is not consistent", "we will be interchangeably using commas and hyphens".

@@ -16,6 +16,7 @@ SV (Shivam Vashisth): YouTube strategist, journalist by training, self-taught bu
 6. Sentence case for titles, except SV's posts and captions, which are all lowercase. (2026-10-05)
 7. Strict mode means stop-slop's hard rules. (2026-10-04)
 8. Writing is often Hinglish. (2026-10-04)
+9. A comment or reply on someone else's post is about their post: react to their specifics (their numbers, their decision, what they said comes next). Never bring in SV's own numbers, spending, wins or projects. SV's personality shows in how SV reacts, never in SV's own story. SV: "It is not about me. It is about my reply to their post with the personality which I have." (2026-10-05)
 
 ## Posts and captions style
 

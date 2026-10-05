@@ -105,6 +105,19 @@ Fix: One ask.
 
 Tier: hard rule (platform fact 5).
 
+### LI13. Self-insert in comments
+
+Tier: 1.
+Watch for: a comment on someone else's post that talks about SV: SV's spending, results, projects, numbers or journey, even as "proof" of a shared belief.
+Why: The reader came for the post's author. A comment about SV reads as hijacking their thread.
+Fix: Build every line from the author's own post: their numbers, their decision, their next step. SV's belief or personality can show as a reaction ("my kind of bet"), never as SV's own story.
+Before:
+> big believer in investing in yourself
+> I spent [amount] on courses this year, even when it meant giving up other things
+
+After:
+> five months to 6x, then most of a year on systems - right order to scale in
+
 ## What good looks like for SV
 
 (default) until samples arrive.
@@ -127,6 +140,7 @@ Build each one only from SV's facts; where one is missing, leave `[ADD: ...]`.
 3. Journey or milestone. Include: what happened, with dates or numbers; how it felt, in plain words; what's next, if real. Watch: LI1 announcements, LI3 transformation template, LI10 gratitude walls, #3 kickers.
 4. Personal motivation or reflection. Include: one specific moment; mixed feelings are welcome. Watch: #3 sayings, LI8 parables, #9 telling the reader what to think.
 5. Offer or promotion. Include: who it's for, what they get, proof, how to reach SV, any real limit (dates, slots). Watch: #15 sales language, invented urgency, LI5 bait.
+6. Comment on someone else's post. Length: what SV asks for, usually two or three lines. Include: one reaction to a specific detail from their post (a number, a decision, the order things happened in), SV's take on it in SV's voice, and at most one forward line tied to what they said comes next. Casing and punctuation follow SV's posts and captions style. Watch: LI13 self-insert, #36 re-explaining their post back to them, #3 poster lines, #11 portable praise ("great insights", "love this").
 
 ## Before posting
 

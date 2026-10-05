@@ -2,6 +2,11 @@
 
 Newest first. Each version also gets a git tag (v1.0.0) once it is pushed from a checkout with push access.
 
+## 1.1.0 (2026-10-05)
+
+1: New LinkedIn tell LI13, self-insert in comments, and a new post type for comments on someone else's post: every line built from the author's post, SV's personality in the reaction only.
+2: voice/profile.md rule 9: comments and replies are about the other person's post, never SV's numbers or story.
+
 ## 1.0.4 (2026-10-05)
 
 1: SV's joining hyphen is spaced or unspaced, inconsistently, and is used interchangeably with a comma; drafts mix the two instead of a spaced hyphen on every line.

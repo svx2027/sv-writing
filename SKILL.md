@@ -10,7 +10,7 @@ description: |
   stop-slop's hard rules. Compiled from humanizer, stop-slop and no-ai-slop.
 license: MIT
 metadata:
-  version: "1.0.4"
+  version: "1.1.0"
   author: Shivam Vashisth
   repository: https://github.com/svx2027/sv-writing
 ---
