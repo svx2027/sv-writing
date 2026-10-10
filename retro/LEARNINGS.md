@@ -14,6 +14,12 @@ Format: date | platform | SV's words | the line it was about
 
 Format: date · version · title, then SV's words, what changed, and where.
 
+### 2026-10-10 · 1.1.1 · Acronyms in caps
+
+SV's words: "keep acronyms in caps, PF UAN NPS"
+Changed: an insurance post lowercased PF, UAN and NPS under the all-lowercase rule; acronyms now stay caps.
+Where: voice/profile.md, Case 4.
+
 ### 2026-10-05 · 1.1.0 · Comments are about their post
 
 SV's words: "This is a comment on someone else's post. Why will you talk about your spending", "It is not about me. It is about my reply to their post with the personality which I have."

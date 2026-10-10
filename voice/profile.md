@@ -26,7 +26,8 @@ Case
 1: Everything lowercase. "I" is always capitalised. (2026-10-05)
 2: The only other caps: one word for comic emphasis, once per post (CLEARLY). (2026-10-05)
 3: Brand and tool names stay lowercase: claude, github, claude code. (2026-10-05)
-4: Abbreviations stay as SV writes them, never expanded: rs., hrs, imp, bcoz, rn, ofc, wdn't, hv, f**in. (2026-10-05)
+4: Acronyms stay in caps: PF, UAN, NPS, HR, FY24. (2026-10-10)
+5: Abbreviations stay as SV writes them, never expanded: rs., hrs, imp, bcoz, rn, ofc, wdn't, hv, f**in. (2026-10-05)
 
 Punctuation
 1: No full stops at the end of lines. Line breaks replace full stops. (2026-10-05)
