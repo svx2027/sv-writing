@@ -8,11 +8,19 @@ Feedback about a single line or draft that isn't a rule yet. When a matching obs
 
 Format: date | platform | SV's words | the line it was about
 
+2026-10-23 | WhatsApp DM | "remove this AI slop", "the structure of it is very AI", "it should show my personality" | a polished decline to a recruiter: "It isn't the role. I can see what I'd be missing: much faster learning, more creative control, and work that's very close to what I want to do next." (not X but Y, a triad, tidy formal paragraphs). SV's own notes for the same message were in SV's shorthand (yday, ik, arnd, pls, tysm, w/) and read as SV; the redo kept that register
+
 2026-10-05 | X | "it sounds childish" | "because nobody actually cares" (SV's own phrase, kept by me as voice; SV replaced it with a reasoned line about readers having no time to judge consistency)
 
 ## Log
 
 Format: date · version · title, then SV's words, what changed, and where.
+
+### 2026-10-23 · 1.1.2 · WhatsApp DM read as AI
+
+SV's words: "please remove this AI slop", "it just harms my image that I'm writing messages with the AI with no call of my own", "it should show my personality".
+Changed: logged one observation; a WhatsApp decline was rewritten in SV's own DM shorthand and casing.
+Where: retro/LEARNINGS.md.
 
 ### 2026-10-10 · 1.1.1 · Acronyms in caps
 

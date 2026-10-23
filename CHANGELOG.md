@@ -2,6 +2,10 @@
 
 Newest first. Each version also gets a git tag (v1.0.0) once it is pushed from a checkout with push access.
 
+## 1.1.2 (2026-10-23)
+
+1: Logged an observation: a polished WhatsApp DM read as AI; SV's DMs use SV's own shorthand.
+
 ## 1.1.1 (2026-10-10)
 
 1: Acronyms stay in caps in SV's posts and captions (PF, UAN, NPS), an exception to all-lowercase.
